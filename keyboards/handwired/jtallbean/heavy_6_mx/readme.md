@@ -2,6 +2,8 @@
 
 ![heavy_6_mx](https://i.imgur.com/7jKpHvc.jpg)
 
+image credit Adam Fratus  
+
 heavy_6_mx is a 65% layout pcb designed to add mx switch compatibility to the Norbauer Heavy-6
 
 * Keyboard Maintainer: [jtallbean](https://github.com/yourusername)
